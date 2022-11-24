@@ -32,6 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundan1334&show_icons=true&locale=en&layout=compact" alt="kundan1334" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundan1334&show_icons=true&locale=en" alt="kundan1334" /></p>
+[![@kundan1334's Holopin board](https://holopin.me/kundan1334)](https://holopin.io/@kundan1334)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan1334&" alt="kundan1334" /></p>
-[![@kundan1334's Holopin board](https://holopin.me/kundan1334)](https://holopin.io/@kundan1334)
+
